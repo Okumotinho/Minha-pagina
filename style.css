@@ -1,0 +1,23 @@
+img {
+    width: 100%;
+    height: auto;
+    margin: 0 auto;
+}
+
+video {
+    width: 50%;
+    height: auto;
+    margin: 0 auto;
+}
+
+h1 {
+    font-size: 64px;
+    color: #333;
+}
+
+h2 {
+    font-size: 32px;
+    text-transform: uppercase;
+    color: #333;
+    font-weight: 600;
+}
